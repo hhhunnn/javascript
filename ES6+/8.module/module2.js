@@ -32,5 +32,5 @@ console.log(md.default);
 /*
     - 모듈의 이름이 index 이면 해당 모듈의 폴더명으로 import 가능
 */
-import { indexExport } from './folder';
-console.log(indexExport);
+// import { indexExport } from './folder';
+// console.log(indexExport);
